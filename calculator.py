@@ -1,7 +1,3 @@
-# calculator.py
-# Alternative logic: Expression-based calculator (input num1, operator, num2 directly in a loop).
-# Uses dictionary for operator mapping, handles errors inline.
-
 def compute(num1, op, num2):
     """Compute operation based on operator."""
     operations = {
